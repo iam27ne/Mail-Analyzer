@@ -11,3 +11,6 @@ applications:
   mem: 256M
   instances: 1
   services:
+  - nlu0
+
+   
