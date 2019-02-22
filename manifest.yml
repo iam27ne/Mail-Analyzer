@@ -12,5 +12,8 @@ applications:
   instances: 1
   services:
   - nlu0
+  - ta0
+  - dsc0
+  - wvc0
 
    
