@@ -4,7 +4,7 @@ applications:
 - host: amine-nadal
   disk: 256M
   #name must be unique in your space
-  name: totoz
+  name: pl0
   path: ./WebContent
   #domain must be available in your space
   domain: eu-gb.mybluemix.net
