@@ -11,7 +11,3 @@ applications:
   mem: 256M
   instances: 1
   services:
-  - ta0
-  - nlu0
-  - dsc0
-  - wvc0
